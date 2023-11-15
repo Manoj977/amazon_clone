@@ -1,7 +1,3 @@
-![image](https://github.com/Manoj977/amazon_clone/assets/73774886/52810c76-999f-44c4-9087-44aa5a1adddd)Certainly! Below is a template for an attractive README file for your Amazon clone repository. Remember to customize it with specific details about your project.
-
----
-
 # Amazon Clone with MongoDB, Express.js, Node.js, and Vue/React TypeScript
 
 
