@@ -75,4 +75,4 @@ For any inquiries or feedback, please contact [manojsaravanan212@gmail.com].
 
 ---
 
-Feel free to add or modify sections based on your project's specifics. This template includes sections for project overview, features, getting started, contributing, license, acknowledgments, and contact information. Make sure to replace placeholders like `Manoj`, `manojsaravanan212@gmail.com`,  with actual details.
+Feel free to add or modify sections based on your project's specifics. This template includes sections for project overview, features, getting started, contributing, license, acknowledgments, and contact information.
